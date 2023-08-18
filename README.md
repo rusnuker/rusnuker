@@ -2,3 +2,7 @@
 hello my name is rusnuker i love trolling people
 
 <img height="90" src="https://whitelisting.kaspersky.com/Media/Default/Page/kasp_trust_2.png" alt="kaspersky approved"/> <img src="https://www.esrb.org/wp-content/uploads/2019/05/E.svg" alt="ratEd E by Esrb"/>
+
+[profile's license](https://github.com/rusnuker/rusnuker/blob/main/LICENSE.txt)<br>
+[funny cat pictures](http://funny-cats.ru/)<br>
+[R.I.P. Kevin "Condor" Mitnick - 1963-2023](https://www.washingtonpost.com/obituaries/2023/07/20/kevin-mitnick-hacker-dies/)
