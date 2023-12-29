@@ -2,10 +2,12 @@
 Hey! My names are rusnuker and antihack3r. I mainly post source codes of mods.
 
 I live by these rules:
+```
 1. Whoever obtained the source code of whatever can use it whenever and however they want.
 2. A DMCA takedown is the worst thing that can happen to somebody.
-4. Malware is fun, but only if it's clear that there's malware.
+3. Malware is fun, but only if it's clear that there's malware.
 5. There's always something missing.
+```
 
 <img height="90" src="https://github.com/rusnuker/rusnuker/assets/49472785/3ae21cac-d682-4227-ac90-e4526ffd2e1f" alt="kaspersky approved" title="kaspersky approved"/> <img src="https://www.esrb.org/wp-content/uploads/2019/05/E.svg" alt="ratEd E by Esrb" title="ratEd E by Esrb"/> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/MPA_G_RATING_%28block%29.svg" alt="rated G for General audiences" title="rated G for General audiences"/>
 
