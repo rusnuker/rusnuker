@@ -1,5 +1,5 @@
 ## rusnuker a.k.a. antihack3r <img src="https://komarev.com/ghpvc/?username=rusnuker&color=420420" alt="profile view counter" title="profile view counter"/> <img height=20 src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png" alt="wtfpl license badge" title="wtfpl license badge"/>
-Hey! My names are rusnuker and antihack3r. I mainly post source codes of mods.
+Hey! My names are rusnuker and antihack3r. I mainly post source codes of mods. Everything that you see in here is distributed with WTFPL v2. <b>No exceptions.</b>
 
 I live by these rules:
 ```
