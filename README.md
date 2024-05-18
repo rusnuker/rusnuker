@@ -1,7 +1,7 @@
 ## antihack3r <img src="https://komarev.com/ghpvc/?username=rusnuker&color=420420" alt="profile view counter" title="profile view counter"/> <img height=20 src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png" alt="wtfpl license badge" title="wtfpl license badge"/>
 minecraft sex porn
 
-<img height="90" src="https://github.com/rusnuker/rusnuker/assets/49472785/3ae21cac-d682-4227-ac90-e4526ffd2e1f" alt="kaspersky approved" title="kaspersky approved"/> <img src="https://www.esrb.org/wp-content/uploads/2019/05/E.svg" alt="ratEd E by Esrb" title="ratEd E by Esrb"/> <img height="90" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/MPA_G_RATING_%28block%29.svg" alt="rated G for General audiences" title="rated G for General audiences"/>
+<img height="35" src="https://github.com/rusnuker/rusnuker/assets/49472785/3ae21cac-d682-4227-ac90-e4526ffd2e1f" alt="kaspersky approved" title="kaspersky approved"/>
 
 
 [jessica client deobf + jar](https://github.com/rusnuker/jessica-decomp)<br>
